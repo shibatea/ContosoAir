@@ -1,5 +1,4 @@
-
-
+[![Build Status](https://dev.azure.com/shibatea-github/github-pipeline/_apis/build/status/shibatea.ContosoAir?branchName=master)](https://dev.azure.com/shibatea-github/github-pipeline/_build/latest?definitionId=2&branchName=master)
 
 # Microsoft.Github CI Demo
 
